@@ -1,4 +1,4 @@
-# Exercício: Spring Web
+# Exercício: Spring Security Configure Adapter
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=dark&style=for-the-badge)
 
 ## Tecnologias Utilizadas
